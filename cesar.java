@@ -11,5 +11,6 @@ public class cesar {
                 System.out.println(text);
                 String text2 = descifrar(text);
                 System.out.println(text2);
+                System.out.println(texto);
         }
 }
