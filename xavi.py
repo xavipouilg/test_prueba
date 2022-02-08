@@ -1,6 +1,6 @@
 def suma(a,b):
     c=a+b
-    return c
+    return resultado
 
 def resta(a,b):
     c=a-b
